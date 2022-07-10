@@ -55,4 +55,42 @@ function getResult() {
     
 
 
-}
+// }
+
+// var spotifyPlaylist = {
+//     SongOne: {
+//         Name: "Rasputin",
+//         Artist: "Boney M",
+//     },
+//     SongTwo: {
+//         Name: "Wannabe",
+//         Artist: "Spice Girls",
+//     }
+// }
+
+// console.log(spotifyPlaylist.SongTwo.Artist)
+
+// let boolean = false && true
+// console.log(boolean)
+
+// function switchBooks (book) {
+//     book = "The Picture of Dorian Grey";
+// }
+
+// var myBook = "Jane Eyre";
+// myBook = switchBooks(myBook);
+
+// console.log(myBook)
+
+// var shows  = [
+//     "Howl's Moving Castle",
+//     "Community",
+//     "Princess Mononoke",
+//     "The Good Place"
+// ]
+
+// shows.splice(2, 0, "The Umbrella Academy")
+
+// console.log(shows)
+
+// console.log("Ferris Buller\'s")
